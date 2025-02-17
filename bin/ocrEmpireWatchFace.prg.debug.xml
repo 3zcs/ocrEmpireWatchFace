@@ -5,7 +5,7 @@
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceApp.mc" id="1" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceApp.mc" id="1" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceView.mc" id="2" lineNum="11" parent="globals/ocrEmpireWatchFaceView" pc="268435486" symbol="&lt;init&gt;"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435505" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435505" symbol="&lt;init&gt;"/>
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceApp.mc" id="4" lineNum="5" parent="globals/ocrEmpireWatchFaceApp" pc="268435529" symbol="&lt;init&gt;"/>
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceView.mc" id="7" lineNum="19" parent="globals/ocrEmpireWatchFaceView" pc="268435548" symbol="onLayout"/>
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceView.mc" id="7" lineNum="20" parent="globals/ocrEmpireWatchFaceView" pc="268435550" symbol="onLayout"/>
@@ -75,15 +75,15 @@
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceApp.mc" id="16" lineNum="7" parent="globals/ocrEmpireWatchFaceApp" pc="268436869" symbol="initialize"/>
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceApp.mc" id="16" lineNum="8" parent="globals/ocrEmpireWatchFaceApp" pc="268436871" symbol="initialize"/>
         <entry filename="D:\\garmin\\ocrEmpireWatchFace\\source\\ocrEmpireWatchFaceApp.mc" id="17" lineNum="16" parent="globals/ocrEmpireWatchFaceApp" pc="268436890" symbol="onStop"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="14" parent="globals/Rez/Layouts" pc="268436893" symbol="WatchFace"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="15" parent="globals/Rez/Layouts" pc="268436905" symbol="WatchFace"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="17" parent="globals/Rez/Layouts" pc="268437010" symbol="WatchFace"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="19" parent="globals/Rez/Layouts" pc="268437122" symbol="WatchFace"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="21" parent="globals/Rez/Layouts" pc="268437234" symbol="WatchFace"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="23" parent="globals/Rez/Layouts" pc="268437346" symbol="WatchFace"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="25" parent="globals/Rez/Layouts" pc="268437458" symbol="WatchFace"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="27" parent="globals/Rez/Layouts" pc="268437570" symbol="WatchFace"/>
-        <entry filename="d:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="29" parent="globals/Rez/Layouts" pc="268437682" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="14" parent="globals/Rez/Layouts" pc="268436893" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="15" parent="globals/Rez/Layouts" pc="268436905" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="17" parent="globals/Rez/Layouts" pc="268437010" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="19" parent="globals/Rez/Layouts" pc="268437122" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="21" parent="globals/Rez/Layouts" pc="268437234" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="23" parent="globals/Rez/Layouts" pc="268437346" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="25" parent="globals/Rez/Layouts" pc="268437458" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="27" parent="globals/Rez/Layouts" pc="268437570" symbol="WatchFace"/>
+        <entry filename="D:\\garmin\\ocrEmpireWatchFace\\bin\\gen\\006-B3289-00\\source\\Rez.mcgen" id="18" lineNum="29" parent="globals/Rez/Layouts" pc="268437682" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
